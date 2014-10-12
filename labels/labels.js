@@ -4,7 +4,7 @@ var dbURL = 'db/';
 
 angular.module('LabelGeneratorApp.labels', ['ngRoute', 'firebase'])
 
-.value('fbURL', 'https://labelgenerator.firebaseio.com/')
+.value('fbURL', 'https://sayait.firebaseio.com/')
  
 .factory('LabelsCounter', function($firebase, fbURL) {
   return $firebase(new Firebase(fbURL)).$asObject();
