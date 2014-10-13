@@ -2,15 +2,25 @@
   "labels": [
     { 
       "name":       "Panel Fotovoltaico",
-      "model":      "SAYA-M140-36",
-      "template":   "SAYA-M140-36.png",
-      "description":"Pm: 140W, Voc: 22.00V, Isc: 8.45A, Vmp: 18.20V, Imp: 7.70A, Voltaje Maximo: 1000V, Corriente Maxima: 12A, Tolerancia: +-2%, Tamaño: 1476 x 676 x 35 mm, Peso: 10.50Kg ",
+      "model":      "SAYA-M110-28",
+      "template":   "SAYA-M110-28.png",
+      "description":"Pm:, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo: 1000V, Corriente Maxima:, Tolerancia: , Tamaño:  mm, Peso: ",
       "barcode_top":  1226,
       "barcode_left": 458,
       "date_top":     1269,
       "date_left":    93
     },
     { 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M140-36",
+      "template":   "SAYA-M140-36.png",
+      "description":"Pm: 140W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: 1476 x 676 x 35 mm, Peso: 10.50Kg ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+{ 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M145-36",
       "template":   "SAYA-M145-36.png",
@@ -20,6 +30,7 @@
       "date_top":     1269,
       "date_left":    93
     },
+
     { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M250-60",
@@ -30,6 +41,100 @@
       "date_top":     1269,
       "date_left":    93
     },
+
+ {
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P100-28",
+      "template":   "SAYA-P100-28.png",
+      "description":"Pm: 100W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: mm, Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P120-36",
+      "template":   "SAYA-P120-36.png",
+      "description":"Pm:, Voc:, Isc: , Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia:, Tamaño:, Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P190-54",
+      "template":   "SAYA-P190-54.png",
+      "description":"Pm: 190W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P200-54",
+      "template":   "SAYA-P200-54.png",
+      "description":"Pm: 200W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P220-60",
+      "template":   "SAYA-P220-60.png",
+      "description":"Pm: 220W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P230-60",
+      "template":   "SAYA-P230-60.png",
+      "description":"Pm: 230W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P240-60",
+      "template":   "SAYA-P240-60.png",
+      "description":"Pm: 190W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P240-72",
+      "template":   "SAYA-P240-72.png",
+      "description":"Pm: 190W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+
     { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M300-72",
