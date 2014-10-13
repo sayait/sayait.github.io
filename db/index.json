@@ -115,7 +115,7 @@
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P240-60",
       "template":   "SAYA-P240-60.png",
-      "description":"Pm: 190W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "description":"Pm: 240W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
       "barcode_top":  1226,
       "barcode_left": 458,
       "date_top":     1269,
@@ -127,13 +127,23 @@
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P240-72",
       "template":   "SAYA-P240-72.png",
-      "description":"Pm: 190W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "description":"Pm: 240W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
       "barcode_top":  1226,
       "barcode_left": 458,
       "date_top":     1269,
       "date_left":    93
     },
-
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P250-72",
+      "template":   "SAYA-P250-72.png",
+      "description":"Pm: 250W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima:, Tolerancia: , Tamaño: , Peso: ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
 
     { 
       "name":       "Panel Fotovoltaico",
