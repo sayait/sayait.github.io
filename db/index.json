@@ -188,11 +188,7 @@
       "date_top":     1269,
       "date_left":    93
     },
-<<<<<<< HEAD
-    { 
-=======
-{ 
->>>>>>> 9e8b65fdeff045746e61f1b7d55160b6d9f9bfff
+    {
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P290-72",
       "template":   "SAYA-P290-72.png",
