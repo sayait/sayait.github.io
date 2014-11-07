@@ -1,7 +1,7 @@
 
 {
   "Comment1": "Para validar el archivo ve a: http://www.jsoneditoronline.org/.",
-  "Comment2": "Para adicionar una etiqueta, copie la primera y repitala al inicio. No copie la ultima y la copie al final."
+  "Comment2": "Para adicionar una etiqueta, copie la primera y repitala al inicio. No copie la ultima y la copie al final.",
   "labels": [
     { 
       "name":       "Panel Fotovoltaico",
