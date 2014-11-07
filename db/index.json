@@ -1,6 +1,7 @@
 
 {
-  "Comment": "To validate the JSON file go to: http://www.jsoneditoronline.org/",
+  "Comment1": "Para validar el archivo ve a: http://www.jsoneditoronline.org/.",
+  "Comment2": "Para adicionar una etiqueta, copie la primera y repitala al inicio. No copie la ultima y la copie al final."
   "labels": [
     { 
       "name":       "Panel Fotovoltaico",
@@ -186,8 +187,8 @@
       "barcode_left": 458,
       "date_top":     1269,
       "date_left":    93
-    }
-{ 
+    },
+    { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P290-72",
       "template":   "SAYA-P290-72.png",
@@ -197,6 +198,5 @@
       "date_top":     1269,
       "date_left":    93
     }
-
   ]
 }
