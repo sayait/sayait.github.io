@@ -199,6 +199,17 @@
       "date_left":    93
 
     },
+{
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P70-25",
+      "template":   "SAYA-P70-25.png",
+      "description":"Pm: 290W, Voc:, Isc:, Vmp:, Imp:, Voltaje Maximo:, Corriente Maxima: 12A, Tolerancia: +-6%, Tamaño: 1950 x 992 x 50 mm, Peso: 23Kg ",
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+
+    },
 
   ]
 }
