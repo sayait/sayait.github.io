@@ -158,6 +158,16 @@
       "date_top":     1269,
       "date_left":    93
     },
+{ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P300-72",
+      "template":   "SAYA-P300-72.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
     { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P190-54",
