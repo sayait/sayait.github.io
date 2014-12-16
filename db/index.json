@@ -221,8 +221,19 @@
     },
 {
       "name":       "Panel Fotovoltaico",
-      "model":      "SAYA-P70-25",
-      "template":   "SAYA-P70-25.png",
+      "model":      "SAYA-P150-36",
+      "template":   "SAYA-P150-36.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+
+    },
+{
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P30-54",
+      "template":   "SAYA-P30-54.png",
       
       "barcode_top":  1226,
       "barcode_left": 458,
