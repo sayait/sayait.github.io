@@ -193,6 +193,7 @@
     { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M110-28",
+		    "SAYA-M110-28.png",
       
       "barcode_top":  1226,
       "barcode_left": 458,
