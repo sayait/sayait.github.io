@@ -158,16 +158,6 @@
       "date_top":     1269,
       "date_left":    93
     },
-{ 
-      "name":       "Panel Fotovoltaico",
-      "model":      "SAYA-P300-72",
-      "template":   "SAYA-P300-72.png",
-      
-      "barcode_top":  1226,
-      "barcode_left": 458,
-      "date_top":     1269,
-      "date_left":    93
-    },
     { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P190-54",
@@ -210,53 +200,8 @@
     },
 {
       "name":       "Panel Fotovoltaico",
-      "model":      "SAYA-P150-36",
-      "template":   "SAYA-P150-36.png",
-      
-      "barcode_top":  1226,
-      "barcode_left": 458,
-      "date_top":     1269,
-      "date_left":    93
-
-    },
-{
-      "name":       "Panel Fotovoltaico",
-      "model":      "SAYA-P150-36",
-      "template":   "SAYA-P150-36.png",
-      
-      "barcode_top":  1226,
-      "barcode_left": 458,
-      "date_top":     1269,
-      "date_left":    93
-
-    },
-{
-      "name":       "Panel Fotovoltaico",
-      "model":      "SAYA-P250-60",
-      "template":   "SAYA-P250-60.png",
-      
-      "barcode_top":  1226,
-      "barcode_left": 458,
-      "date_top":     1269,
-      "date_left":    93
-
-    },
-{
-      "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P70-25",
       "template":   "SAYA-P70-25.png",
-      
-      "barcode_top":  1226,
-      "barcode_left": 458,
-      "date_top":     1269,
-      "date_left":    93
-
-    },
-
-{
-      "name":       "Panel Fotovoltaico",
-      "model":      "SAYA-P230-54",
-      "template":   "SAYA-P230-54.png",
       
       "barcode_top":  1226,
       "barcode_left": 458,
