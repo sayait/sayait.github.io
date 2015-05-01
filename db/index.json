@@ -1,4 +1,4 @@
-No
+
 {
   "Comment1": "Para validar el archivo ve a: http://www.jsoneditoronline.org/.",
   "Comment2": "Para adicionar una etiqueta, copie la primera y repitala al inicio. No copie la ultima y la copie al final.",
@@ -168,18 +168,6 @@ No
       "date_top":     1269,
       "date_left":    93
     },
-
-{ 
-      "name":       "Panel Fotovoltaico",
-      "model":      "SAYA-P320-72",
-      "template":   "SAYA-P320-72.png",
-      
-      "barcode_top":  1226,
-      "barcode_left": 458,
-      "date_top":     1269,
-      "date_left":    93
-    },
-
     { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P190-54",
@@ -193,7 +181,6 @@ No
     { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M110-28",
-		    "SAYA-M110-28.png",
       
       "barcode_top":  1226,
       "barcode_left": 458,
