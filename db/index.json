@@ -55,7 +55,16 @@
       "date_top":     1269,
       "date_left":    93
     },
-
+{ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P270-60",
+      "template":   "SAYA-P270-60.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
 
     { 
       "name":       "Panel Fotovoltaico",
@@ -82,6 +91,16 @@
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P120-28",
       "template":   "SAYA-P120-28.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+{
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P130-28",
+      "template":   "SAYA-P130-28.png",
       
       "barcode_top":  1226,
       "barcode_left": 458,
@@ -119,7 +138,16 @@
       "date_top":     1269,
       "date_left":    93
     },
-
+{ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P170-36",
+      "template":   "SAYA-P170-36.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
 {
  
       "name":       "Panel Fotovoltaico",
@@ -166,7 +194,17 @@
       "date_top":     1269,
       "date_left":    93
     },
-
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P250-54",
+      "template":   "SAYA-P250-54.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
 {
  
       "name":       "Panel Fotovoltaico",
@@ -228,6 +266,16 @@
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-P320-72",
       "template":   "SAYA-P320-72.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+{ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P330-72",
+      "template":   "SAYA-P330-72.png",
       
       "barcode_top":  1226,
       "barcode_left": 458,
