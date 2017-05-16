@@ -35,6 +35,16 @@
       "date_left":    93
     },
 
+{ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "CIRO-P195-40",
+      "template":   "CIRO-P195-40.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
 
     { 
       "name":       "Panel Fotovoltaico",
