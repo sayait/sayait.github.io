@@ -46,6 +46,17 @@
       "date_left":    93
     },
 
+{ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M290-54",
+      "template":   "SAYA-M290-54.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
     { 
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M140-36",
