@@ -127,7 +127,101 @@
     },
 
 
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P275-54",
+      "template":   "SAYA-P275-54.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
 
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P305-60",
+      "template":   "SAYA-P305-60.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P365-72",
+      "template":   "SAYA-P365-72.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M165-28",
+      "template":   "SAYA-M165-28.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M210-36",
+      "template":   "SAYA-M210-36.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M315-54",
+      "template":   "SAYA-M315-54.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M350-60",
+      "template":   "SAYA-M350-60.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M420-72",
+      "template":   "SAYA-M420-72.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
 
 
 
