@@ -166,6 +166,17 @@
 {
  
       "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-P370-72",
+      "template":   "SAYA-P370-72.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+{
+ 
+      "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M165-28",
       "template":   "SAYA-M165-28.png",
       
@@ -216,6 +227,17 @@
       "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M420-72",
       "template":   "SAYA-M420-72.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+{
+ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M430-72",
+      "template":   "SAYA-M430-72.png",
       
       "barcode_top":  1226,
       "barcode_left": 458,
