@@ -23,7 +23,16 @@
       "date_top":     1269,
       "date_left":    93
     },
-
+{ 
+      "name":       "Panel Fotovoltaico",
+      "model":      "SAYA-M320-54",
+      "template":   "SAYA-M320-54.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
 
 { 
       "name":       "Panel Fotovoltaico",
