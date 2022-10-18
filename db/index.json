@@ -256,6 +256,17 @@
 {
  
       "name":       "Panel Fotovoltaico",
+      "model":      "RCD-M420-144",
+      "template":   "RCD-M420-144.png",
+      
+      "barcode_top":  1226,
+      "barcode_left": 458,
+      "date_top":     1269,
+      "date_left":    93
+    },
+{
+ 
+      "name":       "Panel Fotovoltaico",
       "model":      "SAYA-M430-72",
       "template":   "SAYA-M430-72.png",
       
